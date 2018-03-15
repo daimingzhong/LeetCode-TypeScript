@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "no-console": false,
+    "no-consecutive-blank-lines": [false],
+    "typedef-whitespace": false,
+    "whitespace": false,
+    "no-trailing-whitespace": false,
+    "no-empty": false,
+    "one-line": false,
+    "eofline": false,
+    "ordered-imports": false
+  }
+}

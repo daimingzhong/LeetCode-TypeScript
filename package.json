@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-ts",
+  "version": "1.0.0",
+  "description": "this is a practice of typescript",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daimingzhong/LeetCode-TypeScript.git"
+  },
+  "author": "daimingzhong",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
